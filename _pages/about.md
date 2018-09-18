@@ -1,16 +1,16 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Dominic Mussack
+description: computational psychologist #<a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: llama_self.jpg
+  #address: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true
 social: true
