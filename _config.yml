@@ -9,6 +9,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Rabbit-Duck favicon by Aenne Brielmann from the <a href="https://thenounproject.com/" target="_blank">Noun Project</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -22,8 +23,8 @@ twitter_username: quantummoose # your Twitter handle
 linkedin_username: Dominic Mussack # your LinkedIn user name
 scholar_userid: _I_MawYAAAAJ&hl=en&oi=ao # your Google Scholar ID
 orcid_id: # your ORCID ID
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics:  # out your google-analytics code
 
@@ -89,7 +90,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Mussack
 
   style: apa
   locale: en
