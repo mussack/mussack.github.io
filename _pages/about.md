@@ -16,6 +16,10 @@ news: true
 social: true
 ---
 
-*Site in progress*
+I am a computational psychologist and data scientist, researching human motivation, decision making, and learning. My main interest is in understanding human time allocation and intrinsic motivation.
 
-I am a graduate student in Psychology at the University of Minnesota. My research focus is human motivation and decision making, with an emphasis on understanding human time allocation and intrinsic motivation. I'm also generally interested in data science computational modeling.
+I've recently joined the [Xcit](xcit.org) lab at the University of Luxembourg as a postdoctoral researcher, with a focus on using machine learning and cognitive modeling to improve both digital assessments of student learning and training of executive functions.
+
+Previously I was a member of the [CoMoCo](umn.edu) lab at the University of Minnesota for my PhD.
+
+I'm also generally interested in data science and computational modeling, as well as using video games for research.
