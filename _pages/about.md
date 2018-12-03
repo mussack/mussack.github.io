@@ -20,6 +20,6 @@ I am a computational psychologist and data scientist, researching human motivati
 
 I've recently joined the [Xcit](xcit.org) lab at the University of Luxembourg as a postdoctoral researcher, with a focus on using machine learning and cognitive modeling to improve both digital assessments of student learning and training of executive functions.
 
-Previously I was a member of the [CoMoCo](umn.edu) lab at the University of Minnesota for my PhD.
+Previously I was a member of the [CoMoCo](http://schraterlab.umn.edu/) lab at the University of Minnesota for my PhD.
 
 I'm also generally interested in data science and computational modeling, as well as using video games for research.
