@@ -18,7 +18,7 @@ social: true
 
 I am a computational psychologist and data scientist, researching human motivation, decision making, and learning. My main interest is in understanding human time allocation and intrinsic motivation.
 
-I've recently joined the [Xcit](www.xcit.org) lab at the University of Luxembourg as a postdoctoral researcher, with a focus on using machine learning and cognitive modeling to improve both digital assessments of student learning and training of executive functions.
+I've recently joined the [Xcit](http://www.xcit.org) lab at the University of Luxembourg as a postdoctoral researcher, with a focus on using machine learning and cognitive modeling to improve both digital assessments of student learning and training of executive functions.
 
 Previously I was a member of the [CoMoCo](http://schraterlab.umn.edu/) lab at the University of Minnesota for my PhD.
 
